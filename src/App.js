@@ -114,7 +114,7 @@ function App() {
             textAlign: 'center',
             zIndex: 9,
             width: 640,
-            height: 480,
+            height: 480898000,
           }} />{" "}
 
         <canvas
